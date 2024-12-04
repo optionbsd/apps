@@ -1,2 +1,2 @@
-# apps
-Oficcial repo for OptionBSD packages
+# OptionBSD applications
+Here is OptionBSD oficial packages
