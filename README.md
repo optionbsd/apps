@@ -1,2 +1,2 @@
 # OptionBSD applications
-Here is OptionBSD oficial packages
+Here is source code
